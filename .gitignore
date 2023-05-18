@@ -1,5 +1,5 @@
 events.out.tfevents*
-jax/checkpoints/*
-.ipynb_checkpoints/*
-data/*
-save_models/*
+transformer-jax-pytorch/transformers/checkpoints/*
+transformer-jax-pytorch/transformers/.ipynb_checkpoints/*
+transformer-jax-pytorch/transformers/data/*
+transformer-jax-pytorch/transformers/save_models/*
