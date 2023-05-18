@@ -1,0 +1,5 @@
+events.out.tfevents*
+jax/checkpoints/*
+.ipynb_checkpoints/*
+data/*
+save_models/*
